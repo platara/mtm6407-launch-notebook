@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'Launch Notebook',
+  base: '/mtm6407-launch-notebook/',
   description: 'An unofficial GTA VI classroom guide',
   cleanUrls: false,
   themeConfig: {
